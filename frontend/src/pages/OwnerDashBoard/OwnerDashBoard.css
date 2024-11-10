@@ -1,0 +1,11 @@
+#admin-card-holder {
+    margin-top: -7%;
+  }
+
+
+  @media screen and (max-width: 990px) {
+    #admin-card-holder {
+        margin: 0;
+        
+    }
+  }

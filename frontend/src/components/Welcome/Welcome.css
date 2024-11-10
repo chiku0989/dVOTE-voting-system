@@ -1,0 +1,13 @@
+#greet-user{
+    height: 60vh;
+    position: relative;
+}
+
+#userName{
+    color: #fff;
+    padding: 40px ;
+}
+
+@media screen {
+    
+}

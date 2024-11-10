@@ -1,0 +1,9 @@
+.list-cards-section{
+    height: 100vh;
+    background-color: #F5F5F7;
+    border-radius: 2%;
+}
+
+#list-top-text{
+    padding: 20px;
+}

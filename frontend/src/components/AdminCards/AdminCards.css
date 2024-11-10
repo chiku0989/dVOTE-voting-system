@@ -1,0 +1,13 @@
+#date-card{
+    margin:20px 10px;
+    text-align: center;
+}
+
+#date-card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+  }
+
+#date-card-img{
+    height: 50%;
+}
